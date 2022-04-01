@@ -1,6 +1,6 @@
 # System Design and Modeling
-The aim of this project is to define requirements and problem domain, and design architecture and testing to
-develop the service further.
+The aim of this project is to define the project requirements, problem domain, and design system architecture and testing to
+develop the service.
 
 ## Phase 1:
 Requirements Engineering
