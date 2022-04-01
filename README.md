@@ -6,7 +6,7 @@ develop the service.
 Requirements Engineering
 
 ## Phase 2
-acquired glosarry and Domain modeling
+Acquired glosarry and Domain modeling
 
 ## Phase 3
 Architectural Design 
