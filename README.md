@@ -3,7 +3,7 @@ The aim of this project is to define the project requirements, problem domain, a
 develop the service.
 
 ## Phase 1:
-Requirements Engineering
+requirements Engineering
 
 ## Phase 2
 Acquired glosarry and Domain modeling
